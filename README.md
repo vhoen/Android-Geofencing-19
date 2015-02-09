@@ -1,6 +1,6 @@
 # Geofencing #
 
-Since API Level 21 Geolocation and Geofencing works differently. A sample application can be found [there](https://github.com/vhoen/Geofence-21 "Geofence-21").
+__Since API Level 21 Geolocation and Geofencing works differently. A sample application can be found [there](https://github.com/vhoen/Geofence-21 "Geofence-21").__
 
 I tried to set up a demo app that displays a number of geofence on a map, and do something when a transition (ENTER, EXIT or DWELL) occurs. 
 
