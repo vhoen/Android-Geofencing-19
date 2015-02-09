@@ -1,8 +1,10 @@
 # Geofencing #
 
+Since API Level 21 Geolocation and Geofencing works differently. A sample application can be found [there](https://github.com/vhoen/Geofence-21 "Geofence-21").
+
 I tried to set up a demo app that displays a number of geofence on a map, and do something when a transition (ENTER, EXIT or DWELL) occurs. 
 
-I spent many hours reading the [official documentation]((http://developer.android.com/training/location/geofencing.html "official documentation")  along with the [provided sample](http://developer.android.com/shareables/training/GeofenceDetection.zip "provided sample"). 
+I spent many hours reading the [official documentation](http://developer.android.com/training/location/geofencing.html "official documentation")  along with the [provided sample](http://developer.android.com/shareables/training/GeofenceDetection.zip "provided sample"). 
 
 I was at loss about how to detect a transition. Then I stumbled on this [http://stackoverflow.com/a/19521823](http://stackoverflow.com/a/19521823 "post"), and suddenly it worked.
 
